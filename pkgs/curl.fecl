@@ -1,0 +1,11 @@
+package = {
+	author = 'Electrux';
+	name = 'LibCurl';
+	source = {
+		type = 'git';
+		uri = 'https://github.com/Feral-Lang/LibCurl';
+		branch = 'main';
+		version = 'ce3acf8'; # for git, version is commit hash
+	};
+	# depends = [];
+};

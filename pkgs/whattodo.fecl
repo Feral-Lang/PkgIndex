@@ -1,0 +1,11 @@
+package = {
+	author = 'Electrux';
+	name = 'WhatToDo';
+	source = {
+		type = 'git';
+		uri = 'https://github.com/Feral-Lang/WhatToDo';
+		branch = 'main';
+		version = '8d33498'; # for git, version is commit hash
+	};
+	# depends = [];
+};
