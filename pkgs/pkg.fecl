@@ -1,0 +1,6 @@
+author = 'Electrux';
+name = 'Pkg';
+version = '0.0.1';
+description = 'Feral build system and package manager.';
+source = 'https://github.com/Feral-Lang/Pkg';
+# depends = {};
