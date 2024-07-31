@@ -1,11 +1,9 @@
-package = {
-	author = 'Electrux';
-	name = 'WhatToDo';
-	version = '1.0.0'; # Used to check if a package needs updating.
-	source = {
-		type = 'git';
-		uri = 'https://github.com/Feral-Lang/WhatToDo';
-		tag = '1.0.0';
-	};
-	# depends = [];
+author = 'Electrux';
+name = 'WhatToDo';
+version = '1.0.0'; # Used to check if a package needs updating.
+source = {
+	type = 'git';
+	uri = 'https://github.com/Feral-Lang/WhatToDo';
+	tag = '1.0.0';
 };
+# depends = {};

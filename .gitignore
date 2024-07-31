@@ -36,6 +36,7 @@ tmp*
 tests/*.json
 *.zip
 vgcore.*
+/config.fecl
 
 # Build file on BSD #
 #####################
