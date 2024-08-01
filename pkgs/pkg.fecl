@@ -5,5 +5,7 @@ description = 'Feral build system and package manager.';
 source = 'https://github.com/Feral-Lang/Pkg';
 # The installation will not have a version number in path.
 # This is useful for pkg since the binary hooks use full path to resolve the pkg modules.
-disableVersionedInstallPath = true;
+disableVersionedInstallPath = 1;
+# Adds the install path of this package to $FERAL_INSTALL_PATH/.modulePaths
+enableGlobalAvailability = 1;
 # depends = {};
