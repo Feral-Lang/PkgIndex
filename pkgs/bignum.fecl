@@ -1,0 +1,6 @@
+author = 'Electrux';
+name = 'bignum';
+version = '0.0.1';
+description = 'GMP and MPFR C library bindings for Feral.';
+source = 'https://github.com/Feral-Lang/BigNum';
+# depends = {};
