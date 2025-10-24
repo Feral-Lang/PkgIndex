@@ -4,5 +4,5 @@ version = '0.0.1';
 description = 'Ntfy bindings for Feral.';
 source = 'https://github.com/Feral-Lang/LibNtfy';
 depends = {
-	curl = '0.0.1';
+    curl = '0.0.1';
 };
