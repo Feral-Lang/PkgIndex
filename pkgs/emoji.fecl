@@ -1,6 +1,6 @@
 author = 'Electrux';
 name = 'Emoji';
-version = '0.0.1';
+version = '0.0.2';
 description = 'Emojis for Feral 😁';
 source = 'https://github.com/Feral-Lang/LibEmoji';
 # depends = [];
