@@ -1,0 +1,6 @@
+author = 'Electrux';
+name = 'Docker';
+version = '0.0.1'; # Used to check if a package needs updating.
+description = 'A Docker interface with some opinionated tools.';
+source = 'https://github.com/Feral-Lang/Docker';
+# depends = {};
