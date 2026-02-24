@@ -1,0 +1,6 @@
+author = 'Electrux';
+name = 'BWS';
+version = '0.0.1'; # Used to check if a package needs updating.
+description = 'API for Bitwarden Secrets Manager - used to import secrets in Feral\'s environment.';
+source = 'https://github.com/Feral-Lang/LibBWS';
+# depends = {};
