@@ -1,0 +1,8 @@
+author = 'Electrux';
+name = 'Infra';
+version = '0.0.1';
+description = 'Infrastructure as Code - write Feral scripts to setup remote machines.';
+source = 'https://github.com/Feral-Lang/LibInfra';
+depends = {
+    ssh = '0.0.1';
+};
