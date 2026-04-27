@@ -5,5 +5,5 @@ description = 'Ntfy bindings for Feral.';
 source = 'https://github.com/Feral-Lang/LibNtfy';
 depends = {
     curl = '0.0.2';
-    emoji = '0.0.2';
+    emoji = '0.0.3';
 };
