@@ -1,0 +1,3 @@
+versions = [
+    { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibSSH/archive/refs/tags/0.1.0.tar.gz'; sha256 = 'fd5211642f17e838756964b6960c91fe92da91f5f644ab0f2793343c6a15d68f'; }
+];
