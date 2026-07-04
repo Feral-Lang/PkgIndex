@@ -1,3 +1,3 @@
 versions = [
-    { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibBson/archive/refs/tags/0.1.0.tar.gz'; sha256 = '64e031d7771d34e375d3adbf37ac69c61d264a55282a1726e7f404f0a1f8999c'; }
+    { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibBson/archive/refs/tags/0.1.0.tar.gz'; sha256 = '7ef835eb29422485bcf4096a3b56b9000bb8826c14dcb81c3473f6001656a594'; }
 ];
