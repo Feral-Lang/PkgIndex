@@ -1,0 +1,3 @@
+versions = [
+    { version = '0.1.0'; url = 'https://github.com/Feral-Lang/Docker/archive/refs/tags/0.1.0.tar.gz'; sha256 = '92814a3dbe6966235d64e05322c0604bb5c5a69fee4d576efc7fd7634cc85080'; }
+];

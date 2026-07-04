@@ -1,0 +1,3 @@
+versions = [
+    { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibEmoji/archive/refs/tags/0.1.0.tar.gz'; sha256 = 'c7f74514a1f1a922d27c77d8becec75fa2d1f2c010ead0cdf568b1cffbc2f46a'; }
+];
