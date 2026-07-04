@@ -1,0 +1,3 @@
+versions = [
+    { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibMP/archive/refs/tags/0.1.0.tar.gz'; sha256 = '78ab329cefb3f4ae1ab03315a7987fb09e8ddcb083d6b75b7044ad6ee555d370'; }
+];
