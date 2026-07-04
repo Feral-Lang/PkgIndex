@@ -1,0 +1,3 @@
+versions = [
+    { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibBWS/archive/refs/tags/0.1.0.tar.gz'; sha256 = 'e1193a04b2532c2250c4ed95d73ccf7b36cebee193604dc0b1c34467212d68eb'; }
+];
