@@ -1,3 +1,4 @@
 versions = [
+    { version = '0.2.0'; url = 'https://github.com/Feral-Lang/LibProgress/archive/refs/tags/0.2.0.tar.gz'; sha256 = 'b5681871983b59c0e890bd7969c7b16e0a73ec02b9f8f89748bb6f83c5ee7a1d'; },
     { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibProgress/archive/refs/tags/0.1.0.tar.gz'; sha256 = 'a5840b8f007477f4726e2363ad9aace1cb5ac0ba09f7442607ddaa66420b5712'; }
 ];
