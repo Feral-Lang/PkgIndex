@@ -1,3 +1,4 @@
 versions = [
+    { version = '0.2.0'; url = 'https://github.com/Feral-Lang/LibMongo/archive/refs/tags/0.2.0.tar.gz'; sha256 = '6d63435777cdb3647ad05eb6c53f1857efc2a75fe54eaf8bb970d76d480248f3'; },
     { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibMongo/archive/refs/tags/0.1.0.tar.gz'; sha256 = 'cf0967e074a47d7b86ae0c51e2c7a9095d110156d3d30a533d03ff563bb5dd88'; }
 ];

@@ -1,3 +1,4 @@
 versions = [
+    { version = '0.2.0'; url = 'https://github.com/Feral-Lang/LibBWS/archive/refs/tags/0.2.0.tar.gz'; sha256 = '27783b878e6b3e2e8ea7d988f3ca3bcf679e4a2f30193a2f32075eb5bd845ed0'; },
     { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibBWS/archive/refs/tags/0.1.0.tar.gz'; sha256 = 'e1193a04b2532c2250c4ed95d73ccf7b36cebee193604dc0b1c34467212d68eb'; }
 ];
