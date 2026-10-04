@@ -1,4 +1,4 @@
 versions = [
-    { version = '0.2.0'; url = 'https://github.com/Feral-Lang/LibNtfy/archive/refs/tags/0.2.0.tar.gz'; sha256 = '707d7c61ed7ff23e54b389134f5f38d256c4b0c35a529813c5e75fca83d4c6b7'; },
+    { version = '0.2.0'; url = 'https://github.com/Feral-Lang/LibNtfy/archive/refs/tags/0.2.0.tar.gz'; sha256 = '6d217fdce97ced49202c2b08033e4cc2575d7dcc281168a14b9fab8b1f8ff32d'; },
     { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibNtfy/archive/refs/tags/0.1.0.tar.gz'; sha256 = '3103423f31717e5deba9d98796dca3388eeb2ed4ef0f7cd2edb7783ab2d698ff'; }
 ];
