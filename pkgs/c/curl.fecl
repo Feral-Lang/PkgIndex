@@ -1,4 +1,4 @@
 versions = [
-    { version = '0.2.0'; url = 'https://github.com/Feral-Lang/LibCurl/archive/refs/tags/0.2.0.tar.gz'; sha256 = '61329b94c185198137d5cd5ec6765540d9b333acfe1775bfc8452fb42cad1cd5'; },
+    { version = '0.2.0'; url = 'https://github.com/Feral-Lang/LibCurl/archive/refs/tags/0.2.0.tar.gz'; sha256 = '8fb75a48bae250ccf1c39cab4a865e6b31127ac22546d4f73d1fade9784ddbb6'; },
     { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibCurl/archive/refs/tags/0.1.0.tar.gz'; sha256 = '3f5097c534d27791197cc031d4c0d0097e40eab3b1f6b4dae5d59a5ff5913374'; }
 ];
