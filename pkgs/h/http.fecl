@@ -1,0 +1,3 @@
+versions = [
+    { version = '0.1.0'; url = 'https://github.com/Feral-Lang/LibHTTP/archive/refs/tags/0.1.0.tar.gz'; sha256 = '54316b58ed7cadca8020947f8598a9eeaf67d7acdd280c139530289e1461f3ca'; }
+];
